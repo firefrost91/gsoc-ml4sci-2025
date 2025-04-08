@@ -46,11 +46,11 @@
 
 ### Graphs:
 1. **AUC-vs-Epoch Curve**:  
-   ![AUC-vs-Epoch](https://drive.google.com/file/d/1FqTALyPC4Fo24heSXUvuxANx__l8bhwm/view?usp=drive_link)  
+   ![AUC-vs-Epoch](https://drive.google.com/drive/u/1/folders/1DEhVuOuC7btEgjyJ0z0mUauuY99w7vWO)  
    *This graph shows the ROC-AUC score at each epoch during training.*
 
 2. **ROC graphs wrt the [paper](https://arxiv.org/pdf/1402.4735.pdf)**:  
-   ![ROC Curve](https://drive.google.com/file/d/1_LzXYyEGbdVr7CZ8F4htr8hMIXPMcFi_/view?usp=drive_link)  
+   ![ROC Curve](https://drive.google.com/drive/u/1/folders/1DEhVuOuC7btEgjyJ0z0mUauuY99w7vWO)  
    *This graph visualizes the ROC curve of the best model evaluated on the validation set.*
 
 ## Model:
