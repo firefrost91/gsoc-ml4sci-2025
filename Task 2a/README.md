@@ -54,7 +54,7 @@
    *This graph visualizes the ROC curve of the best model evaluated on the validation set.*
 
 ## Model:
-- **Pre-trained Model**: You can access the pre-trained model here: [Google drive link](https://drive.google.com/file/d/1J8DqpHLL6e-H8NeEIjiekoj9C3gds10k/view?usp=sharing)
+- **Model**: You can access the transformer model here: [Google drive link](https://drive.google.com/file/d/1J8DqpHLL6e-H8NeEIjiekoj9C3gds10k/view?usp=sharing)
 
 ## Notes:
 - Transformer models are highly effective in handling structured tabular data through attention-based encoding.
