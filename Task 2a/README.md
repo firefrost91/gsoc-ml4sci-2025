@@ -41,7 +41,17 @@
 - **ROC-AUC** is tracked per epoch on the validation set.
 - **Best Model**: The best model is saved as `best_transformer_model.pt`.
 - Final classifier is tested on the 100,000 held-out samples.
-- **AUC-vs-Epoch Curve** is plotted for visual inspection of model performance over training.
+- - **Best Validation AUC**: 0.7954.
+- **AUC-vs-Epoch Curve**: Shows the performance of the model across training epochs.
+
+### Graphs:
+1. **AUC-vs-Epoch Curve**:  
+   ![AUC-vs-Epoch](https://drive.google.com/file/d/1FqTALyPC4Fo24heSXUvuxANx__l8bhwm/view?usp=drive_link)  
+   *This graph shows the ROC-AUC score at each epoch during training.*
+
+2. **ROC graphs wrt the [paper](https://arxiv.org/pdf/1402.4735.pdf)**:  
+   ![ROC Curve](https://drive.google.com/file/d/1_LzXYyEGbdVr7CZ8F4htr8hMIXPMcFi_/view?usp=drive_link)  
+   *This graph visualizes the ROC curve of the best model evaluated on the validation set.*
 
 ## Model:
 - **Pre-trained Model**: You can access the pre-trained model here: [Google drive link](https://drive.google.com/file/d/1J8DqpHLL6e-H8NeEIjiekoj9C3gds10k/view?usp=sharing)
