@@ -46,7 +46,7 @@
 
 ### Graphs:
 1. **AUC-vs-Epoch Curve**:  
-   ![AUC-vs-Epoch](/graphs/ROC vs epoch.png)  
+   ![AUC-vs-Epoch](graphs/ROC%20vs%20epoch.png)  
    *This graph shows the ROC-AUC score at each epoch during training.*
 
 2. **ROC graphs wrt the [paper](https://arxiv.org/pdf/1402.4735.pdf)**:  
