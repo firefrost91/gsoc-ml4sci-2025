@@ -1,8 +1,8 @@
 # Common Task 1: Electron/Photon Classification
 
 ## Dataset:
-- **Photon**: [CERNBox Link]
-- **Electron**: [CERNBox Link]
+- **Photon**: [CERNBox Link](https://cernbox.cern.ch/index.php/s/AtBT8y4MiQYFcgc)
+- **Electron**: [CERNBox Link](https://cernbox.cern.ch/index.php/s/FbXw3V4XNyYB3oA )
 
 ## Objective:
 The goal is to train a **ResNet-15-like model** to classify electrons vs. photons based on detector hits, using **energy** and **time** channels.
@@ -35,7 +35,7 @@ Custom **ResNet-15-like** architecture with the following components:
 - **Classification Report** and **Confusion Matrix** for model performance.
 
 ## Model:
-You can download the trained model from [https://drive.google.com/file/d/1i4Xgtwy3hxz2EL3OzMInG0RMBiwzXMht/view?usp=sharing].
+You can download the trained model from [Drive link](https://drive.google.com/file/d/1i4Xgtwy3hxz2EL3OzMInG0RMBiwzXMht/view?usp=sharing).
 
 ## Known Issues:
 - During final feature visualization using **t-SNE**, a **RuntimeError** occurred due to a shape mismatch in the linear layer. This issue likely stems from an incorrect flattening or mismatch in the expected input shape for the linear layer during feature extraction.
