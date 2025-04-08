@@ -33,6 +33,23 @@ Custom **ResNet-15-like** architecture with the following components:
 
 ### Evaluation:
 - **Classification Report** and **Confusion Matrix** for model performance.
+- **Accuracy metrics**
+- **Electron class**:
+  - Precision: 0.72
+  - Recall: 0.69
+  - F1-Score: 0.71
+  - Support: 37,567
+
+- **Photon class**:
+  - Precision: 0.70
+  - Recall: 0.73
+  - F1-Score: 0.71
+  - Support: 37,133
+
+  ### Graphs:
+1. **Confusion matrix**:  
+   ![Confusion matrix](graphs/Confusion%20matrix.png)  
+   *This graph shows Confusion matrix for test set*
 
 ## Model:
 You can download the trained model from [Drive link](https://drive.google.com/file/d/1i4Xgtwy3hxz2EL3OzMInG0RMBiwzXMht/view?usp=sharing).
