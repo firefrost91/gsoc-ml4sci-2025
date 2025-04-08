@@ -50,7 +50,7 @@
    *This graph shows the ROC-AUC score at each epoch during training.*
 
 2. **ROC graphs wrt the [paper](https://arxiv.org/pdf/1402.4735.pdf)**:  
-   ![ROC Curve](images/Comparison-AOC.png)  
+   ![ROC Curve](graphs/Comparison-AOC.png)  
    *This graph visualizes the ROC curve of the best model evaluated on the validation set.*
 
 ## Model:
